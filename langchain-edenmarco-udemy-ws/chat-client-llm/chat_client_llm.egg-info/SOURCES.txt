@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+chat_client_llm.egg-info/PKG-INFO
+chat_client_llm.egg-info/SOURCES.txt
+chat_client_llm.egg-info/dependency_links.txt
+chat_client_llm.egg-info/requires.txt
+chat_client_llm.egg-info/top_level.txt

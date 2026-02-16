@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: chat-client-llm
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: dotenv>=0.9.9
+Requires-Dist: langchain>=1.0.3
+Requires-Dist: langchain-ollama>=1.0.0
+Requires-Dist: langchain-openai>=1.0.1
+
+Following items were covered
+- chat clients with any LLM - close (hosted on Groq) or open source (installed using ollama)
+- use of langsmith for tracing, configured through .env

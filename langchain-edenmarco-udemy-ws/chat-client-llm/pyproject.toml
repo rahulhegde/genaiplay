@@ -1,0 +1,16 @@
+[project]
+name = "chat-client-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain>=1.0.3",
+    "langchain-core>=1.0.2",
+    "langchain-groq>=1.0.0",
+    "langchain-ollama>=1.0.0",
+    "langchain-openai>=1.0.1",
+    "langchain-tool>=0.1.1",
+    "langchain-tools>=0.1.34",
+]
